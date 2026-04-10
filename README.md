@@ -29,7 +29,7 @@ The dataset contains information about telecom customers, including:
 * NumPy
 * Matplotlib
 * Seaborn
-* Jupyter Notebook
+* Google CoLab
 
 
 
